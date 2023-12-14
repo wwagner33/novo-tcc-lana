@@ -1502,10 +1502,11 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT ./lib/logo-ufc.PNG
-INPUT lib/logo-ufc.PNG
-INPUT ./lib/logo-ufc.PNG
-INPUT ./lib/logo-ufc.PNG
+INPUT ./lib/logo-ufc.png
+INPUT ./lib/logo-ufc.png
+INPUT lib/logo-ufc.png
+INPUT ./lib/logo-ufc.png
+INPUT ./lib/logo-ufc.png
 OUTPUT documento.ist
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm

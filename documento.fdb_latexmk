@@ -1,21 +1,21 @@
 # Fdb version 4
 ["bibtex documento"] 0 "documento.aux" "documento.bbl" "documento" 0 -1
-  "./3-pos-textuais/referencias.bib" 1702505890 6189 a1247f4050e7693c84d1af27bbccb68f ""
+  "./3-pos-textuais/referencias.bib" 1702515042 6187 0a6bb5328a0fc748ad64515913821f93 ""
   "/usr/share/texlive/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1357081713 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "documento.aux" 1702512358 23765 c32fac5f9c4cba4118278b47a0a458f3 "pdflatex"
+  "documento.aux" 1702515719 23765 ceb88d6a1fd90cee6b744dc98ac84d3c "pdflatex"
   (generated)
   "documento.bbl"
   "documento.blg"
   (rewritten before read)
 ["makeindex documento.idx"] 0 "documento.idx" "documento.ind" "documento" 0 -1
-  "documento.idx" 1702512358 195 a8090a56c08958c6c2b772e6f256bf2b "pdflatex"
+  "documento.idx" 1702515719 195 a8090a56c08958c6c2b772e6f256bf2b "pdflatex"
   (generated)
   "documento.ilg"
   "documento.ind"
   (rewritten before read)
-["pdflatex"] 1702512357 "/home/wwagner/Downloads/novo-tcc-lana/documento.tex" "documento.pdf" "documento" 1702512359 2
-  "/home/wwagner/Downloads/novo-tcc-lana/documento.tex" 1702512146 11577 5f52d305f15bd87efa820ea785503fe9 ""
+["pdflatex"] 1702515717 "/home/wwagner/Downloads/novo-tcc-lana/documento.tex" "documento.pdf" "documento" 1702515719 2
+  "/home/wwagner/Downloads/novo-tcc-lana/documento.tex" 1702515714 11701 e57368da4e9da3eca0ffcf89cf498cd3 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1689984000 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -244,22 +244,22 @@
   "3-pos-textuais/anexos/anexo-b.tex" 1702505890 640 bcdec75713061d8d547cf8f685d39a60 ""
   "3-pos-textuais/apendices/apendice-a.tex" 1702505890 361 c0063d981791c920460c551bd60483e2 ""
   "3-pos-textuais/apendices/apendice-b.tex" 1702505890 635 4daa040a629c4841be264b3403b6aa07 ""
-  "3-pos-textuais/glossario.tex" 1702505890 1325 bece85bf2ed1bad79d64e9c045f5b991 ""
-  "documento.aux" 1702512358 23765 c32fac5f9c4cba4118278b47a0a458f3 "pdflatex"
-  "documento.bbl" 1702512355 4800 40023ff9fd7bd58ec23f9967528d3a53 "bibtex documento"
+  "3-pos-textuais/glossario.tex" 1702515036 1325 bece85bf2ed1bad79d64e9c045f5b991 ""
+  "documento.aux" 1702515719 23765 ceb88d6a1fd90cee6b744dc98ac84d3c "pdflatex"
+  "documento.bbl" 1702515305 4800 40023ff9fd7bd58ec23f9967528d3a53 "bibtex documento"
   "documento.gls" 0 -1 0 ""
   "documento.ind" 0 -1 0 "makeindex documento.idx"
-  "documento.lof" 1702512358 613 f4a57de349bd6eb3b82e9363e97249e3 "pdflatex"
-  "documento.lot" 1702512358 305 decfa169d3004709d3f7b48f86387022 "pdflatex"
-  "documento.tex" 1702512146 11577 5f52d305f15bd87efa820ea785503fe9 ""
-  "documento.toc" 1702512358 4205 f38f291fc7c47b805fde7a092ef35285 "pdflatex"
+  "documento.lof" 1702515719 613 f4a57de349bd6eb3b82e9363e97249e3 "pdflatex"
+  "documento.lot" 1702515719 305 decfa169d3004709d3f7b48f86387022 "pdflatex"
+  "documento.tex" 1702515714 11701 e57368da4e9da3eca0ffcf89cf498cd3 ""
+  "documento.toc" 1702515719 4205 f38f291fc7c47b805fde7a092ef35285 "pdflatex"
   "figuras/exemplo-1.jpg" 1702505890 32587 5a9cbe3eed76e7bf2ef454388d313e5f ""
   "figuras/figura-3.png" 1702505890 17319 5ace66ad26a9305e1dc42def8ee6dc4f ""
   "figuras/sondas.png" 1702505890 650608 1588af0f640e1d483f8ac60e0032be14 ""
   "figuras/tensaoimpedanciahumana.PNG" 1702505890 39796 43b8883b2cd57299f9b354e2dec34cb6 ""
-  "lib/logo-ufc.PNG" 1702505890 225873 bd8744586e262fc284cb39e1fe099b01 ""
+  "lib/logo-ufc.png" 1702505890 225873 bd8744586e262fc284cb39e1fe099b01 ""
   "lib/preambulo.tex" 1702505890 6194 39ce58b4c601040b7656bb4261362639 ""
-  "lib/ufctex.sty" 1702505890 43848 139016bd33ba2a9be4d2a4fb9cc57cbe ""
+  "lib/ufctex.sty" 1702514913 43860 b92446434cf36aebabeafaf7f76b693d ""
   (generated)
   "documento.aux"
   "documento.glo"

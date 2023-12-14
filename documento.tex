@@ -81,6 +81,13 @@
     fleqn             % Comente esta linha se quiser centralizar as equacoes. Comente também a linha 65 abaixo
 ]{abntex2}
 
+%Solucao do problema de warnings de glossaries
+
+\let\printglossary\relax
+\let\theglossary\relax
+\let\endtheglossary\relax
+
+
 \input{lib/preambulo}
 
 \setlength{\mathindent}{0pt} %Complementa o alinhamento de equações para totalmente a esquerda.
