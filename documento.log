@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.13)  13 DEC 2023 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.13)  14 DEC 2023 07:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1347,53 +1347,53 @@ No file documento.toc.
 
 ] (./2-textuais/1-introducao.tex
 
-LaTeX Warning: Citation `goossens1994latex' on page 14 undefined on input line 9.
+LaTeX Warning: Citation `B0082OP29K:2009' on page 14 undefined on input line 8.
 
-) (./2-textuais/2-fundamentacao-teorica.tex [14
+[14
 
+
+]) (./2-textuais/2-fundamentacao-teorica.tex [15]
+
+LaTeX Warning: Reference `sec:citacoes' on page 16 undefined on input line 6.
+
+
+LaTeX Warning: Citation `rakov2003lightning' on page 16 undefined on input line 10.
+
+
+LaTeX Warning: Citation `elat2015densidade' on page 16 undefined on input line 10.
+
+
+LaTeX Warning: Citation `LangtangenLogg2017' on page 16 undefined on input line 12.
+
+
+LaTeX Warning: Citation `secretaria1999' on page 16 undefined on input line 14.
+
+
+LaTeX Warning: Citation `NBR10520:2002' on page 16 undefined on input line 14.
+
+
+LaTeX Warning: Citation `Almeida2018' on page 16 undefined on input line 16.
+
+
+LaTeX Warning: Citation `Gondim2017' on page 16 undefined on input line 16.
+
+
+LaTeX Warning: Citation `manuais1989' on page 16 undefined on input line 16.
+
+[16
 
 ]
 
-LaTeX Warning: Reference `sec:citacoes' on page 15 undefined on input line 6.
+LaTeX Warning: Citation `feitosa2016' on page 17 undefined on input line 18.
 
 
-LaTeX Warning: Citation `rakov2003lightning' on page 15 undefined on input line 10.
+LaTeX Warning: Citation `feitosa2016' on page 17 undefined on input line 25.
 
 
-LaTeX Warning: Citation `elat2015densidade' on page 15 undefined on input line 10.
+LaTeX Warning: Reference `fig:reitoria' on page 17 undefined on input line 34.
 
-
-LaTeX Warning: Citation `LangtangenLogg2017' on page 15 undefined on input line 12.
-
-
-LaTeX Warning: Citation `secretaria1999' on page 15 undefined on input line 14.
-
-
-LaTeX Warning: Citation `NBR10520:2002' on page 15 undefined on input line 14.
-
-
-LaTeX Warning: Citation `Almeida2018' on page 15 undefined on input line 16.
-
-
-LaTeX Warning: Citation `Gondim2017' on page 15 undefined on input line 16.
-
-
-LaTeX Warning: Citation `manuais1989' on page 15 undefined on input line 16.
-
-[15
-
-]
-
-LaTeX Warning: Citation `feitosa2016' on page 16 undefined on input line 18.
-
-
-LaTeX Warning: Citation `feitosa2016' on page 16 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:reitoria' on page 16 undefined on input line 34.
-
-[16]
-<figuras/exemplo-1.jpg, id=142, 72.5117pt x 48.34114pt>
+[17]
+<figuras/exemplo-1.jpg, id=151, 72.5117pt x 48.34114pt>
 File: figuras/exemplo-1.jpg Graphic file (type jpg)
 <use figuras/exemplo-1.jpg>
 Package pdftex.def Info: figuras/exemplo-1.jpg  used on input line 48.
@@ -1404,7 +1404,7 @@ Package pdftex.def Info: figuras/exemplo-1.jpg  used on input line 48.
 (pdftex.def)             Requested size: 455.24408pt x 303.54382pt.
 
 
-LaTeX Warning: Citation `UFC2012' on page 17 undefined on input line 48.
+LaTeX Warning: Citation `UFC2012' on page 18 undefined on input line 48.
 
 
 Overfull \hbox (4.99997pt too wide) in paragraph at lines 48--49
@@ -1412,10 +1412,10 @@ Overfull \hbox (4.99997pt too wide) in paragraph at lines 48--49
  []
 
 
-LaTeX Warning: Reference `fig:sondas' on page 17 undefined on input line 59.
+LaTeX Warning: Reference `fig:sondas' on page 18 undefined on input line 59.
 
-[17 <./figuras/exemplo-1.jpg>]
-<figuras/sondas.png, id=149, 658.71094pt x 590.95781pt>
+[18 <./figuras/exemplo-1.jpg>]
+<figuras/sondas.png, id=158, 658.71094pt x 590.95781pt>
 File: figuras/sondas.png Graphic file (type png)
 <use figuras/sondas.png>
 Package pdftex.def Info: figuras/sondas.png  used on input line 68.
@@ -1426,11 +1426,11 @@ Package pdftex.def Info: figuras/sondas.png  used on input line 68.
 (pdftex.def)             Requested size: 398.33858pt x 357.37277pt.
 
 
-LaTeX Warning: Citation `NASA2016' on page 18 undefined on input line 68.
+LaTeX Warning: Citation `NASA2016' on page 19 undefined on input line 68.
 
-[18 <./figuras/sondas.png>]
+[19 <./figuras/sondas.png>]
 
-LaTeX Warning: Reference `tab:exemplo-1' on page 19 undefined on input line 81.
+LaTeX Warning: Reference `tab:exemplo-1' on page 20 undefined on input line 81.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
@@ -1438,7 +1438,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
-[19]
+[20]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 145.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
@@ -1447,31 +1447,65 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (./2-textuais/3-metodologia.tex [20{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 
-LaTeX Warning: Reference `fig-grafico-1' on page 21 undefined on input line 67.
 
-[21
+./2-textuais/2-fundamentacao-teorica.tex:154: Package glossaries Error: Glossary entry `TEST' has not been defined.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...ros exemplos: Teste de siglas \gls{TEST},
+                                                   outros exemplos de siglas...
+You need to define a glossary entry before you can use it.
+
+
+./2-textuais/2-fundamentacao-teorica.tex:154: Package glossaries Error: Glossary entry `DA' has not been defined.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...ST}, outros exemplos de siglas: \gls{DA},
+                                                   \gls{MCEG}.
+You need to define a glossary entry before you can use it.
+
+
+./2-textuais/2-fundamentacao-teorica.tex:154: Package glossaries Error: Glossary entry `MCEG' has not been defined.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...exemplos de siglas: \gls{DA}, \gls{MCEG}.
+                                                  
+You need to define a glossary entry before you can use it.
+
+) (./2-textuais/3-metodologia.tex [21{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+
+LaTeX Warning: Reference `fig-grafico-1' on page 22 undefined on input line 67.
+
+[22
 
 ]
 
-LaTeX Warning: Reference `eq:indices' on page 22 undefined on input line 76.
+LaTeX Warning: Reference `eq:indices' on page 23 undefined on input line 76.
 
 
-LaTeX Warning: Reference `eq:indices' on page 22 undefined on input line 78.
-
-[22]
-
-LaTeX Warning: Reference `ap:A' on page 23 undefined on input line 154.
+LaTeX Warning: Reference `eq:indices' on page 23 undefined on input line 78.
 
 [23]
 
-LaTeX Warning: Reference `ap:C' on page 24 undefined on input line 163.
+LaTeX Warning: Reference `ap:A' on page 24 undefined on input line 154.
+
+[24]
+
+LaTeX Warning: Reference `ap:C' on page 25 undefined on input line 163.
 
 
-LaTeX Warning: Reference `ap:B' on page 24 undefined on input line 196.
+LaTeX Warning: Reference `ap:B' on page 25 undefined on input line 196.
 
-) (./2-textuais/4-resultados.tex [24]
+) (./2-textuais/4-resultados.tex [25]
 <figuras/tensaoimpedanciahumana.png, id=228, 752.8125pt x 436.63126pt>
 File: figuras/tensaoimpedanciahumana.png Graphic file (type png)
 <use figuras/tensaoimpedanciahumana.png>
@@ -1503,30 +1537,41 @@ Overfull \hbox (11.79996pt too wide) in paragraph at lines 31--32
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[25
+[26
 
  <./figuras/tensaoimpedanciahumana.PNG>]
 
-LaTeX Warning: Reference `tab:notas' on page 26 undefined on input line 65.
+LaTeX Warning: Reference `tab:notas' on page 27 undefined on input line 65.
 
-[26 <./figuras/figura-3.png>]
+[27 <./figuras/figura-3.png>]
 
-LaTeX Warning: Reference `tab:notas' on page 27 undefined on input line 71.
+LaTeX Warning: Reference `tab:notas' on page 28 undefined on input line 71.
 
-) (./2-textuais/5-conclusao.tex [27]) (./documento.bbl [28
+) (./2-textuais/5-conclusao.tex [28]) (./documento.bbl [29
 
 ]
 bibitemlist
-) [29
+) [30
 
-] (./3-pos-textuais/apendices/apendice-a.tex) (./3-pos-textuais/apendices/apendice-b.tex [30
+] (./3-pos-textuais/apendices/apendice-a.tex) (./3-pos-textuais/apendices/apendice-b.tex [31
 
-]) (./3-pos-textuais/anexos/anexo-a.tex [31
+]) (./3-pos-textuais/anexos/anexo-a.tex [32
 
-]) (./3-pos-textuais/anexos/anexo-b.tex [32
+]) (./3-pos-textuais/anexos/anexo-b.tex [33
 
 ]
-<3-pos-textuais/anexos/Sikasil.pdf, id=308, 597.23125pt x 845.1575pt>
+
+./3-pos-textuais/anexos/anexo-b.tex:4: Package glossaries Error: Glossary entry `PDF' has not been defined.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 O autor pode anexar um \gls{PDF},
+                                      traduzido como formato portátil de do...
+You need to define a glossary entry before you can use it.
+
+<3-pos-textuais/anexos/Sikasil.pdf, id=290, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf  used on input line 9.
@@ -1535,7 +1580,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf  used on input line 9.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<3-pos-textuais/anexos/Sikasil.pdf, id=311, page=1, 597.23125pt x 845.1575pt>
+<3-pos-textuais/anexos/Sikasil.pdf, id=293, page=1, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
@@ -1544,7 +1589,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [33
+[34
 
 ]
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
@@ -1559,8 +1604,8 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 1>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [34 <./3-pos-textuais/anexos/Sikasil.pdf>]
-<3-pos-textuais/anexos/Sikasil.pdf, id=332, page=2, 597.23125pt x 845.1575pt>
+ [35 <./3-pos-textuais/anexos/Sikasil.pdf>]
+<3-pos-textuais/anexos/Sikasil.pdf, id=313, page=2, 597.23125pt x 845.1575pt>
 File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 2>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page2 used on input line 9.
@@ -1573,7 +1618,7 @@ File: 3-pos-textuais/anexos/Sikasil.pdf Graphic file (type pdf)
 <use 3-pos-textuais/anexos/Sikasil.pdf, page 2>
 Package pdftex.def Info: 3-pos-textuais/anexos/Sikasil.pdf , page2 used on input line 9.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [35 <./3-pos-textuais/anexos/Sikasil.pdf>])
+ [36 <./3-pos-textuais/anexos/Sikasil.pdf>])
 No file documento.ind.
 \tf@lof=\write7
 \openout7 = `documento.lof'.
@@ -1593,33 +1638,21 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 33065 strings out of 476034
- 562645 string characters out of 5792863
+ 32820 strings out of 476034
+ 559147 string characters out of 5792863
  1865388 words of memory out of 6000000
- 52545 multiletter control sequences out of 15000+600000
- 574603 words of font info for 293 fonts, out of 8000000 for 9000
+ 52346 multiletter control sequences out of 15000+600000
+ 572474 words of font info for 269 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  99i,20n,120p,2298b,662s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{glo:PDF} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{glo:MCEG} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{glo:DA} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{glo:TEST} has been referenced but does not exist, replaced by a fixed one
-
 
 pdfTeX warning (dest): name{glo:ABNT} has been referenced but does not exist, replaced by a fixed one
 
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on documento.pdf (36 pages, 1427361 bytes).
+Output written on documento.pdf (37 pages, 1423962 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 422 compressed objects within 5 object streams
- 128 named destinations out of 1000 (max. 500000)
- 63799 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 513 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 119 named destinations out of 1000 (max. 500000)
+ 61767 words of extra memory for PDF output out of 61914 (max. 10000000)
 
