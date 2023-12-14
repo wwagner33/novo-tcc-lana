@@ -1,0 +1,54 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeUppercase []{Introdução}}{14}{chapter.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeUppercase []{Título do segundo capítulo}}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Citações bibliográficas}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Inserindo figuras}{16}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Inserindo tabelas}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Exemplo de subseção}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Uso de siglas}{20}{subsection.2.3.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeUppercase []{Metodologia}}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Exemplo de alíneas}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Usando Fórmulas Matemáticas}{22}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Usando Código-fonte}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Usando Teoremas, Proposições, etc}{24}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Usando Questões}{24}{section.3.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeUppercase []{Resultados}}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Resultados do Experimento A}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Resultados do Experimento B}{26}{section.4.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeUppercase []{Conclusões e Trabalhos Futuros}}{28}{chapter.5}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeUppercase []{REFER\^ENCIAS}}{29}{section*.18}%
+\contentsline {chapter}{AP\^ENDICES}{30}{section*.18}%
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\renewcommand *{\cftappendixname }{\bfseries AP\^ENDICE \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de apêndice}{30}{appendix.A}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {B}\normalfont Questionário utilizado para...}{31}{appendix.B}%
+\contentsline {chapter}{ANEXOS}{31}{Item.19}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\renewcommand *{\cftappendixname }{\bfseries ANEXO \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\normalfont Exemplo de um anexo}{32}{appendix.anexochapback.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {B}\normalfont Exemplo de um anexo em PDF}{33}{appendix.anexochapback.2}%
